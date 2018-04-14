@@ -3,6 +3,10 @@
   margin: 80px 80px 80px 80px;
 }
 
+.timeline > ul {
+  display: inline-block;
+}
+
 .tribute-area {
   background-color: #d3d3d3;
   margin: 20px 20px 20px 20px;
